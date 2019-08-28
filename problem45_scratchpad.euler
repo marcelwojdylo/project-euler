@@ -1,0 +1,113 @@
+
+
+2019-08-28 14:00:21.357160
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^PROJECT EULER PROBLEM 45^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This took 9.89437103271e-05 s
+
+
+2019-08-28 15:14:10.580948
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+2019-08-28 15:14:43.587262
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Triangular for n = 0: 0
+Pentagonal for n = 0: 0
+
+
+2019-08-28 15:15:02.766906
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Triangular for n = 0: 0
+Pentagonal for n = 0: 0
+Hexagonal for n = 0: 0
+Triangular for n = 1: 1
+Pentagonal for n = 1: 1
+Hexagonal for n = 1: 1
+Triangular for n = 2: 3
+Pentagonal for n = 2: 5
+Hexagonal for n = 2: 6
+Triangular for n = 3: 6
+Pentagonal for n = 3: 12
+Hexagonal for n = 3: 15
+Triangular for n = 4: 10
+Pentagonal for n = 4: 22
+Hexagonal for n = 4: 28
+Triangular for n = 5: 15
+Pentagonal for n = 5: 35
+Hexagonal for n = 5: 45
+Triangular for n = 6: 21
+Pentagonal for n = 6: 51
+Hexagonal for n = 6: 66
+Triangular for n = 7: 28
+Pentagonal for n = 7: 70
+Hexagonal for n = 7: 91
+Triangular for n = 8: 36
+Pentagonal for n = 8: 92
+Hexagonal for n = 8: 120
+Triangular for n = 9: 45
+Pentagonal for n = 9: 117
+Hexagonal for n = 9: 153
+This took 7.39097595215e-05 s
+
+
+2019-08-28 15:37:11.089536
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking if 40755 is triangular, pentagonal and hexagonal:
+	Triangular: True
+	Pentagonal: True
+	Hexagonal: True
+This took 8.70227813721e-05 s
+
+
+2019-08-28 15:42:20.774687
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For n = 40755, checking if nth triangular number is also pentagonal and hexagonal
+This took 5.22136688232e-05 s
+
+
+2019-08-28 15:42:38.439891
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For n = 285, checking if nth triangular number is also pentagonal and hexagonal
+	40755 is triangular, pentagonal and hexagonal
+This took 5.29289245605e-05 s
+
+
+2019-08-28 15:46:59.676662
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for magical ns in range 500
+
+
+2019-08-28 15:47:22.838079
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for magical ns in range 500
+	Found magical number at n = 1: 1
+	Found magical number at n = 285: 40755
+	Found 2 magical ns
+[1, 285]
+This took 0.00747418403625 s
+
+
+2019-08-28 15:48:11.758586
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for magical ns in range 1000000
+	Found magical number at n = 1: 1
+	Found magical number at n = 285: 40755
+	Found magical number at n = 55385: 1533776805
+	Found 3 ns that generate a magical number
+[1, 285, 55385]
+This took 1.32764697075 s
+
+
+2019-08-28 15:52:19.650991
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for magical ns in range 100000000
+	Found magical number at n = 1: 1
+	Found magical number at n = 285: 40755
+	Found magical number at n = 55385: 1533776805
+	Found magical number at n = 10744501: 57722156241751
+	Found magical number at n = 98808073: 4881517694390701
+	Found 5 ns that generate a magical number
+[1, 285, 55385, 10744501, 98808073]
+This took 137.746596098 s
