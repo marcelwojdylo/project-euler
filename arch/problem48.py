@@ -18,6 +18,16 @@ ONE_BILLION = 1000000000
 def pad (string):
     scratchpad.write(string+"\n")
 
+def selfPower(number):
+    return int(number**number)
+
+def sumOfSeriesOfSelfPowers(n):
+    pad("Computing the sum of natural numbers up to and including "+str(n)+", each raised to its own power")
+    sum_ = 0
+    for number in tqdm(range(1,n+1)):
+        sum_+=selfPower(number)
+    pad("...\nSum of all terms is "+str(sum_))
+    return sum_
 
 ##########################################
 
@@ -30,8 +40,7 @@ def run () :
         "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"
     )
 
-    pad("^^^^^^^PROJECT EULER PROBLEM "+problemNumber+"^^^^^^^\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
-
+    sumOfSeriesOfSelfPowers(1000)
 
     finish = time.time()
     pad("\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nThis took "+str(finish - start)+" s")

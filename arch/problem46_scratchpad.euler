@@ -205,3 +205,12 @@ Found 3 counterexamples.
 [1, 5777, 5993]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 This took 92.5077440739 s
+
+
+2019-08-28 20:23:41.432936
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for counterexamples to Goldbach's other theorem in range 10000
+Found 3 counterexamples.
+[1, 5777, 5993]
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This took 106.251727819 s
