@@ -7,6 +7,12 @@ problemNumber = filename.replace("problem", "")
 
 scratchpad = open("./"+filename+"_scratchpad.euler", "a+")
 
+TEN_THOUSAND = 10000
+ONE_HUNDRED_THOUSAND = 100000
+ONE_MILION = 1000000
+ONE_HUNDRED_MILLION = 100000000
+ONE_BILLION = 1000000000
+
 def pad (string):
     scratchpad.write(string+"\n")
 
