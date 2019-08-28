@@ -1,0 +1,2613 @@
+
+
+2019-08-28 00:11:08.108453
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^PROJECT EULER PROBLEM 43^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This took 4.50611114502e-05 s
+
+
+2019-08-28 00:20:53.137724
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Generating the first 10 pentagonals
+
+
+2019-08-28 00:21:17.878036
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Generating the first 10 pentagonals
+	1
+	5
+	12
+	22
+	35
+	51
+	70
+	92
+	117
+	145
+Found 0 pentagonals
+This took 5.3882598877e-05 s
+
+
+2019-08-28 00:44:08.078293
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Generating the first 5 pentagonals
+	1
+	5
+	12
+	22
+	35
+Found 0 pentagonals
+Checking for pentagonal properties
+21334 is pentagonal?False
+213 is pentagonal?False
+12 is pentagonal?True
+This took 0.000108003616333 s
+
+
+2019-08-28 00:44:47.664459
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Generating the first 5 pentagonals
+	1
+	5
+	12
+	22
+	35
+Found 5 pentagonals
+Checking for pentagonal properties
+1 is pentagonal?True
+5 is pentagonal?True
+12 is pentagonal?True
+22 is pentagonal?True
+35 is pentagonal?True
+21334 is pentagonal?False
+213 is pentagonal?False
+12 is pentagonal?True
+This took 7.29560852051e-05 s
+
+
+2019-08-28 00:48:28.330053
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Adding 4th and 7th pentagonals
+
+
+2019-08-28 00:48:59.266950
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Adding 4th and 7th pentagonals
+
+
+2019-08-28 00:49:17.237783
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Adding 4th and 7th pentagonals
+22 + 70 = 92
+This took 4.79221343994e-05 s
+
+
+2019-08-28 00:52:52.750949
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Subtracting 4th pentagonal from 7th
+22 - 70 = |48.0|
+This took 6.19888305664e-05 s
+
+
+2019-08-28 01:02:33.374831
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking consecutive pairs of pentagonal numbers with max n = 100
+	Found pair: (0, 1)
+Found 1 interesting pairs
+[(0, 1)]
+This took 0.0148069858551 s
+
+
+2019-08-28 01:02:51.483930
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking consecutive pairs of pentagonal numbers with max n = 100
+Found 0 interesting pairs
+[]
+This took 0.00657415390015 s
+
+
+2019-08-28 01:03:01.911045
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking consecutive pairs of pentagonal numbers with max n = 1000
+Found 0 interesting pairs
+[]
+This took 0.0112409591675 s
+
+
+2019-08-28 01:03:11.300940
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking consecutive pairs of pentagonal numbers with max n = 10000
+Found 0 interesting pairs
+[]
+This took 0.042809009552 s
+
+
+2019-08-28 01:03:25.180646
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking consecutive pairs of pentagonal numbers with max n = 100000000
+Found 0 interesting pairs
+[]
+This took 240.615139961 s
+
+
+2019-08-28 01:07:47.007426
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking pairs of pentagonal numbers with max n = 100000 and difference nk-nj = 2
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 100000 and difference nk-nj = 3
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 100000 and difference nk-nj = 4
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 100000 and difference nk-nj = 5
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 100000 and difference nk-nj = 6
+Found 0 interesting pairs
+[]
+This took 1.26691412926 s
+
+
+2019-08-28 01:08:27.033836
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 2
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 3
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 4
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 5
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 6
+Found 0 interesting pairs
+[]
+This took 106.39496398 s
+
+
+2019-08-28 01:12:28.401268
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 2
+
+
+2019-08-28 01:12:45.266991
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 1
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 2
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 3
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 4
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 5
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 6
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 7
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 8
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 9
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 10
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 11
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 12
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 13
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 14
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 15
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 16
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 17
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 18
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 19
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 20
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 21
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 22
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 23
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 24
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 25
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 26
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 27
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 28
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 29
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 30
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 31
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 32
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 33
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 34
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 35
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 36
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 37
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 38
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 39
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 40
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 41
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 42
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 43
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 44
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 45
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 46
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 47
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 48
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 49
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 50
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 51
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 52
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 53
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 54
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 55
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 56
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 57
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 58
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 59
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 60
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 61
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 62
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 63
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 64
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 65
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 66
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 67
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 68
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 69
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 70
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 71
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 72
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 73
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 74
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 75
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 76
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 77
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 78
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 79
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 80
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 81
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 82
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 83
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 84
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 85
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 86
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 87
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 88
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 89
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 90
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 91
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 92
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 93
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 94
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 95
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 96
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 97
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 98
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 99
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 10000000 and difference nk-nj = 100
+Found 0 interesting pairs
+[]
+This took 2307.42597604 s
+
+
+2019-08-28 08:59:55.381133
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking pairs of pentagonal numbers with max n = 100 and difference nk-nj = 1
+Checking P1 and P2
+	1 + 5 = 6
+		Pentagonal? False
+	5 - 1 = 4.0
+		Pentagonal? False
+Checking P2 and P3
+	5 + 12 = 17
+		Pentagonal? False
+	12 - 5 = 7.0
+		Pentagonal? False
+Checking P3 and P4
+	12 + 22 = 34
+		Pentagonal? False
+	22 - 12 = 10.0
+		Pentagonal? False
+Checking P4 and P5
+	22 + 35 = 57
+		Pentagonal? False
+	35 - 22 = 13.0
+		Pentagonal? False
+Checking P5 and P6
+	35 + 51 = 86
+		Pentagonal? False
+	51 - 35 = 16.0
+		Pentagonal? False
+Checking P6 and P7
+	51 + 70 = 121
+		Pentagonal? False
+	70 - 51 = 19.0
+		Pentagonal? False
+Checking P7 and P8
+	70 + 92 = 162
+		Pentagonal? False
+	92 - 70 = 22.0
+		Pentagonal? True
+Checking P8 and P9
+	92 + 117 = 209
+		Pentagonal? False
+	117 - 92 = 25.0
+		Pentagonal? False
+Checking P9 and P10
+	117 + 145 = 262
+		Pentagonal? False
+	145 - 117 = 28.0
+		Pentagonal? False
+Checking P10 and P11
+	145 + 176 = 321
+		Pentagonal? False
+	176 - 145 = 31.0
+		Pentagonal? False
+Checking P11 and P12
+	176 + 210 = 386
+		Pentagonal? False
+	210 - 176 = 34.0
+		Pentagonal? False
+Checking P12 and P13
+	210 + 247 = 457
+		Pentagonal? False
+	247 - 210 = 37.0
+		Pentagonal? False
+Checking P13 and P14
+	247 + 287 = 534
+		Pentagonal? False
+	287 - 247 = 40.0
+		Pentagonal? False
+Checking P14 and P15
+	287 + 330 = 617
+		Pentagonal? False
+	330 - 287 = 43.0
+		Pentagonal? False
+Checking P15 and P16
+	330 + 376 = 706
+		Pentagonal? False
+	376 - 330 = 46.0
+		Pentagonal? False
+Checking P16 and P17
+	376 + 425 = 801
+		Pentagonal? False
+	425 - 376 = 49.0
+		Pentagonal? False
+Checking P17 and P18
+	425 + 477 = 902
+		Pentagonal? False
+	477 - 425 = 52.0
+		Pentagonal? False
+Checking P18 and P19
+	477 + 532 = 1009
+		Pentagonal? False
+	532 - 477 = 55.0
+		Pentagonal? False
+Checking P19 and P20
+	532 + 590 = 1122
+		Pentagonal? False
+	590 - 532 = 58.0
+		Pentagonal? False
+Checking P20 and P21
+	590 + 651 = 1241
+		Pentagonal? False
+	651 - 590 = 61.0
+		Pentagonal? False
+Checking P21 and P22
+	651 + 715 = 1366
+		Pentagonal? False
+	715 - 651 = 64.0
+		Pentagonal? False
+Checking P22 and P23
+	715 + 782 = 1497
+		Pentagonal? False
+	782 - 715 = 67.0
+		Pentagonal? False
+Checking P23 and P24
+	782 + 852 = 1634
+		Pentagonal? False
+	852 - 782 = 70.0
+		Pentagonal? True
+Checking P24 and P25
+	852 + 925 = 1777
+		Pentagonal? False
+	925 - 852 = 73.0
+		Pentagonal? False
+Checking P25 and P26
+	925 + 1001 = 1926
+		Pentagonal? True
+	1001 - 925 = 76.0
+		Pentagonal? False
+Checking P26 and P27
+	1001 + 1080 = 2081
+		Pentagonal? False
+	1080 - 1001 = 79.0
+		Pentagonal? False
+Checking P27 and P28
+	1080 + 1162 = 2242
+		Pentagonal? False
+	1162 - 1080 = 82.0
+		Pentagonal? False
+Checking P28 and P29
+	1162 + 1247 = 2409
+		Pentagonal? False
+	1247 - 1162 = 85.0
+		Pentagonal? False
+Checking P29 and P30
+	1247 + 1335 = 2582
+		Pentagonal? False
+	1335 - 1247 = 88.0
+		Pentagonal? False
+Checking P30 and P31
+	1335 + 1426 = 2761
+		Pentagonal? False
+	1426 - 1335 = 91.0
+		Pentagonal? False
+Checking P31 and P32
+	1426 + 1520 = 2946
+		Pentagonal? False
+	1520 - 1426 = 94.0
+		Pentagonal? False
+Checking P32 and P33
+	1520 + 1617 = 3137
+		Pentagonal? False
+	1617 - 1520 = 97.0
+		Pentagonal? False
+Checking P33 and P34
+	1617 + 1717 = 3334
+		Pentagonal? False
+	1717 - 1617 = 100.0
+		Pentagonal? False
+Checking P34 and P35
+	1717 + 1820 = 3537
+		Pentagonal? False
+	1820 - 1717 = 103.0
+		Pentagonal? False
+Checking P35 and P36
+	1820 + 1926 = 3746
+		Pentagonal? False
+	1926 - 1820 = 106.0
+		Pentagonal? False
+Checking P36 and P37
+	1926 + 2035 = 3961
+		Pentagonal? False
+	2035 - 1926 = 109.0
+		Pentagonal? False
+Checking P37 and P38
+	2035 + 2147 = 4182
+		Pentagonal? False
+	2147 - 2035 = 112.0
+		Pentagonal? False
+Checking P38 and P39
+	2147 + 2262 = 4409
+		Pentagonal? False
+	2262 - 2147 = 115.0
+		Pentagonal? False
+Checking P39 and P40
+	2262 + 2380 = 4642
+		Pentagonal? False
+	2380 - 2262 = 118.0
+		Pentagonal? False
+Checking P40 and P41
+	2380 + 2501 = 4881
+		Pentagonal? False
+	2501 - 2380 = 121.0
+		Pentagonal? False
+Checking P41 and P42
+	2501 + 2625 = 5126
+		Pentagonal? False
+	2625 - 2501 = 124.0
+		Pentagonal? False
+Checking P42 and P43
+	2625 + 2752 = 5377
+		Pentagonal? False
+	2752 - 2625 = 127.0
+		Pentagonal? False
+Checking P43 and P44
+	2752 + 2882 = 5634
+		Pentagonal? False
+	2882 - 2752 = 130.0
+		Pentagonal? False
+Checking P44 and P45
+	2882 + 3015 = 5897
+		Pentagonal? False
+	3015 - 2882 = 133.0
+		Pentagonal? False
+Checking P45 and P46
+	3015 + 3151 = 6166
+		Pentagonal? False
+	3151 - 3015 = 136.0
+		Pentagonal? False
+Checking P46 and P47
+	3151 + 3290 = 6441
+		Pentagonal? False
+	3290 - 3151 = 139.0
+		Pentagonal? False
+Checking P47 and P48
+	3290 + 3432 = 6722
+		Pentagonal? False
+	3432 - 3290 = 142.0
+		Pentagonal? False
+Checking P48 and P49
+	3432 + 3577 = 7009
+		Pentagonal? False
+	3577 - 3432 = 145.0
+		Pentagonal? True
+Checking P49 and P50
+	3577 + 3725 = 7302
+		Pentagonal? False
+	3725 - 3577 = 148.0
+		Pentagonal? False
+Checking P50 and P51
+	3725 + 3876 = 7601
+		Pentagonal? False
+	3876 - 3725 = 151.0
+		Pentagonal? False
+Checking P51 and P52
+	3876 + 4030 = 7906
+		Pentagonal? False
+	4030 - 3876 = 154.0
+		Pentagonal? False
+Checking P52 and P53
+	4030 + 4187 = 8217
+		Pentagonal? False
+	4187 - 4030 = 157.0
+		Pentagonal? False
+Checking P53 and P54
+	4187 + 4347 = 8534
+		Pentagonal? False
+	4347 - 4187 = 160.0
+		Pentagonal? False
+Checking P54 and P55
+	4347 + 4510 = 8857
+		Pentagonal? False
+	4510 - 4347 = 163.0
+		Pentagonal? False
+Checking P55 and P56
+	4510 + 4676 = 9186
+		Pentagonal? False
+	4676 - 4510 = 166.0
+		Pentagonal? False
+Checking P56 and P57
+	4676 + 4845 = 9521
+		Pentagonal? False
+	4845 - 4676 = 169.0
+		Pentagonal? False
+Checking P57 and P58
+	4845 + 5017 = 9862
+		Pentagonal? False
+	5017 - 4845 = 172.0
+		Pentagonal? False
+Checking P58 and P59
+	5017 + 5192 = 10209
+		Pentagonal? False
+	5192 - 5017 = 175.0
+		Pentagonal? False
+Checking P59 and P60
+	5192 + 5370 = 10562
+		Pentagonal? False
+	5370 - 5192 = 178.0
+		Pentagonal? False
+Checking P60 and P61
+	5370 + 5551 = 10921
+		Pentagonal? False
+	5551 - 5370 = 181.0
+		Pentagonal? False
+Checking P61 and P62
+	5551 + 5735 = 11286
+		Pentagonal? False
+	5735 - 5551 = 184.0
+		Pentagonal? False
+Checking P62 and P63
+	5735 + 5922 = 11657
+		Pentagonal? False
+	5922 - 5735 = 187.0
+		Pentagonal? False
+Checking P63 and P64
+	5922 + 6112 = 12034
+		Pentagonal? False
+	6112 - 5922 = 190.0
+		Pentagonal? False
+Checking P64 and P65
+	6112 + 6305 = 12417
+		Pentagonal? False
+	6305 - 6112 = 193.0
+		Pentagonal? False
+Checking P65 and P66
+	6305 + 6501 = 12806
+		Pentagonal? False
+	6501 - 6305 = 196.0
+		Pentagonal? False
+Checking P66 and P67
+	6501 + 6700 = 13201
+		Pentagonal? False
+	6700 - 6501 = 199.0
+		Pentagonal? False
+Checking P67 and P68
+	6700 + 6902 = 13602
+		Pentagonal? False
+	6902 - 6700 = 202.0
+		Pentagonal? False
+Checking P68 and P69
+	6902 + 7107 = 14009
+		Pentagonal? False
+	7107 - 6902 = 205.0
+		Pentagonal? False
+Checking P69 and P70
+	7107 + 7315 = 14422
+		Pentagonal? False
+	7315 - 7107 = 208.0
+		Pentagonal? False
+Checking P70 and P71
+	7315 + 7526 = 14841
+		Pentagonal? False
+	7526 - 7315 = 211.0
+		Pentagonal? False
+Checking P71 and P72
+	7526 + 7740 = 15266
+		Pentagonal? False
+	7740 - 7526 = 214.0
+		Pentagonal? False
+Checking P72 and P73
+	7740 + 7957 = 15697
+		Pentagonal? False
+	7957 - 7740 = 217.0
+		Pentagonal? False
+Checking P73 and P74
+	7957 + 8177 = 16134
+		Pentagonal? False
+	8177 - 7957 = 220.0
+		Pentagonal? False
+Checking P74 and P75
+	8177 + 8400 = 16577
+		Pentagonal? False
+	8400 - 8177 = 223.0
+		Pentagonal? False
+Checking P75 and P76
+	8400 + 8626 = 17026
+		Pentagonal? False
+	8626 - 8400 = 226.0
+		Pentagonal? False
+Checking P76 and P77
+	8626 + 8855 = 17481
+		Pentagonal? False
+	8855 - 8626 = 229.0
+		Pentagonal? False
+Checking P77 and P78
+	8855 + 9087 = 17942
+		Pentagonal? False
+	9087 - 8855 = 232.0
+		Pentagonal? False
+Checking P78 and P79
+	9087 + 9322 = 18409
+		Pentagonal? False
+	9322 - 9087 = 235.0
+		Pentagonal? False
+Checking P79 and P80
+	9322 + 9560 = 18882
+		Pentagonal? False
+	9560 - 9322 = 238.0
+		Pentagonal? False
+Checking P80 and P81
+	9560 + 9801 = 19361
+		Pentagonal? False
+	9801 - 9560 = 241.0
+		Pentagonal? False
+Checking P81 and P82
+	9801 + 10045 = 19846
+		Pentagonal? False
+	10045 - 9801 = 244.0
+		Pentagonal? False
+Checking P82 and P83
+	10045 + 10292 = 20337
+		Pentagonal? False
+	10292 - 10045 = 247.0
+		Pentagonal? True
+Checking P83 and P84
+	10292 + 10542 = 20834
+		Pentagonal? False
+	10542 - 10292 = 250.0
+		Pentagonal? False
+Checking P84 and P85
+	10542 + 10795 = 21337
+		Pentagonal? False
+	10795 - 10542 = 253.0
+		Pentagonal? False
+Checking P85 and P86
+	10795 + 11051 = 21846
+		Pentagonal? False
+	11051 - 10795 = 256.0
+		Pentagonal? False
+Checking P86 and P87
+	11051 + 11310 = 22361
+		Pentagonal? False
+	11310 - 11051 = 259.0
+		Pentagonal? False
+Checking P87 and P88
+	11310 + 11572 = 22882
+		Pentagonal? False
+	11572 - 11310 = 262.0
+		Pentagonal? False
+Checking P88 and P89
+	11572 + 11837 = 23409
+		Pentagonal? False
+	11837 - 11572 = 265.0
+		Pentagonal? False
+Checking P89 and P90
+	11837 + 12105 = 23942
+		Pentagonal? False
+	12105 - 11837 = 268.0
+		Pentagonal? False
+Checking P90 and P91
+	12105 + 12376 = 24481
+		Pentagonal? False
+	12376 - 12105 = 271.0
+		Pentagonal? False
+Checking P91 and P92
+	12376 + 12650 = 25026
+		Pentagonal? False
+	12650 - 12376 = 274.0
+		Pentagonal? False
+Checking P92 and P93
+	12650 + 12927 = 25577
+		Pentagonal? False
+	12927 - 12650 = 277.0
+		Pentagonal? False
+Checking P93 and P94
+	12927 + 13207 = 26134
+		Pentagonal? False
+	13207 - 12927 = 280.0
+		Pentagonal? False
+Checking P94 and P95
+	13207 + 13490 = 26697
+		Pentagonal? False
+	13490 - 13207 = 283.0
+		Pentagonal? False
+Checking P95 and P96
+	13490 + 13776 = 27266
+		Pentagonal? False
+	13776 - 13490 = 286.0
+		Pentagonal? False
+Checking P96 and P97
+	13776 + 14065 = 27841
+		Pentagonal? False
+	14065 - 13776 = 289.0
+		Pentagonal? False
+Checking P97 and P98
+	14065 + 14357 = 28422
+		Pentagonal? False
+	14357 - 14065 = 292.0
+		Pentagonal? False
+Checking P98 and P99
+	14357 + 14652 = 29009
+		Pentagonal? False
+	14652 - 14357 = 295.0
+		Pentagonal? False
+Checking P99 and P100
+	14652 + 14950 = 29602
+		Pentagonal? False
+	14950 - 14652 = 298.0
+		Pentagonal? False
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 100 and difference nk-nj = 2
+Checking P1 and P3
+	1 + 12 = 13
+		Pentagonal? False
+	12 - 1 = 11.0
+		Pentagonal? False
+Checking P2 and P4
+	5 + 22 = 27
+		Pentagonal? False
+	22 - 5 = 17.0
+		Pentagonal? False
+Checking P3 and P5
+	12 + 35 = 47
+		Pentagonal? False
+	35 - 12 = 23.0
+		Pentagonal? False
+Checking P4 and P6
+	22 + 51 = 73
+		Pentagonal? False
+	51 - 22 = 29.0
+		Pentagonal? False
+Checking P5 and P7
+	35 + 70 = 105
+		Pentagonal? False
+	70 - 35 = 35.0
+		Pentagonal? True
+Checking P6 and P8
+	51 + 92 = 143
+		Pentagonal? False
+	92 - 51 = 41.0
+		Pentagonal? False
+Checking P7 and P9
+	70 + 117 = 187
+		Pentagonal? False
+	117 - 70 = 47.0
+		Pentagonal? False
+Checking P8 and P10
+	92 + 145 = 237
+		Pentagonal? False
+	145 - 92 = 53.0
+		Pentagonal? False
+Checking P9 and P11
+	117 + 176 = 293
+		Pentagonal? False
+	176 - 117 = 59.0
+		Pentagonal? False
+Checking P10 and P12
+	145 + 210 = 355
+		Pentagonal? False
+	210 - 145 = 65.0
+		Pentagonal? False
+Checking P11 and P13
+	176 + 247 = 423
+		Pentagonal? False
+	247 - 176 = 71.0
+		Pentagonal? False
+Checking P12 and P14
+	210 + 287 = 497
+		Pentagonal? False
+	287 - 210 = 77.0
+		Pentagonal? False
+Checking P13 and P15
+	247 + 330 = 577
+		Pentagonal? False
+	330 - 247 = 83.0
+		Pentagonal? False
+Checking P14 and P16
+	287 + 376 = 663
+		Pentagonal? False
+	376 - 287 = 89.0
+		Pentagonal? False
+Checking P15 and P17
+	330 + 425 = 755
+		Pentagonal? False
+	425 - 330 = 95.0
+		Pentagonal? False
+Checking P16 and P18
+	376 + 477 = 853
+		Pentagonal? False
+	477 - 376 = 101.0
+		Pentagonal? False
+Checking P17 and P19
+	425 + 532 = 957
+		Pentagonal? False
+	532 - 425 = 107.0
+		Pentagonal? False
+Checking P18 and P20
+	477 + 590 = 1067
+		Pentagonal? False
+	590 - 477 = 113.0
+		Pentagonal? False
+Checking P19 and P21
+	532 + 651 = 1183
+		Pentagonal? False
+	651 - 532 = 119.0
+		Pentagonal? False
+Checking P20 and P22
+	590 + 715 = 1305
+		Pentagonal? False
+	715 - 590 = 125.0
+		Pentagonal? False
+Checking P21 and P23
+	651 + 782 = 1433
+		Pentagonal? False
+	782 - 651 = 131.0
+		Pentagonal? False
+Checking P22 and P24
+	715 + 852 = 1567
+		Pentagonal? False
+	852 - 715 = 137.0
+		Pentagonal? False
+Checking P23 and P25
+	782 + 925 = 1707
+		Pentagonal? False
+	925 - 782 = 143.0
+		Pentagonal? False
+Checking P24 and P26
+	852 + 1001 = 1853
+		Pentagonal? False
+	1001 - 852 = 149.0
+		Pentagonal? False
+Checking P25 and P27
+	925 + 1080 = 2005
+		Pentagonal? False
+	1080 - 925 = 155.0
+		Pentagonal? False
+Checking P26 and P28
+	1001 + 1162 = 2163
+		Pentagonal? False
+	1162 - 1001 = 161.0
+		Pentagonal? False
+Checking P27 and P29
+	1080 + 1247 = 2327
+		Pentagonal? False
+	1247 - 1080 = 167.0
+		Pentagonal? False
+Checking P28 and P30
+	1162 + 1335 = 2497
+		Pentagonal? False
+	1335 - 1162 = 173.0
+		Pentagonal? False
+Checking P29 and P31
+	1247 + 1426 = 2673
+		Pentagonal? False
+	1426 - 1247 = 179.0
+		Pentagonal? False
+Checking P30 and P32
+	1335 + 1520 = 2855
+		Pentagonal? False
+	1520 - 1335 = 185.0
+		Pentagonal? False
+Checking P31 and P33
+	1426 + 1617 = 3043
+		Pentagonal? False
+	1617 - 1426 = 191.0
+		Pentagonal? False
+Checking P32 and P34
+	1520 + 1717 = 3237
+		Pentagonal? False
+	1717 - 1520 = 197.0
+		Pentagonal? False
+Checking P33 and P35
+	1617 + 1820 = 3437
+		Pentagonal? False
+	1820 - 1617 = 203.0
+		Pentagonal? False
+Checking P34 and P36
+	1717 + 1926 = 3643
+		Pentagonal? False
+	1926 - 1717 = 209.0
+		Pentagonal? False
+Checking P35 and P37
+	1820 + 2035 = 3855
+		Pentagonal? False
+	2035 - 1820 = 215.0
+		Pentagonal? False
+Checking P36 and P38
+	1926 + 2147 = 4073
+		Pentagonal? False
+	2147 - 1926 = 221.0
+		Pentagonal? False
+Checking P37 and P39
+	2035 + 2262 = 4297
+		Pentagonal? False
+	2262 - 2035 = 227.0
+		Pentagonal? False
+Checking P38 and P40
+	2147 + 2380 = 4527
+		Pentagonal? False
+	2380 - 2147 = 233.0
+		Pentagonal? False
+Checking P39 and P41
+	2262 + 2501 = 4763
+		Pentagonal? False
+	2501 - 2262 = 239.0
+		Pentagonal? False
+Checking P40 and P42
+	2380 + 2625 = 5005
+		Pentagonal? False
+	2625 - 2380 = 245.0
+		Pentagonal? False
+Checking P41 and P43
+	2501 + 2752 = 5253
+		Pentagonal? False
+	2752 - 2501 = 251.0
+		Pentagonal? False
+Checking P42 and P44
+	2625 + 2882 = 5507
+		Pentagonal? False
+	2882 - 2625 = 257.0
+		Pentagonal? False
+Checking P43 and P45
+	2752 + 3015 = 5767
+		Pentagonal? False
+	3015 - 2752 = 263.0
+		Pentagonal? False
+Checking P44 and P46
+	2882 + 3151 = 6033
+		Pentagonal? False
+	3151 - 2882 = 269.0
+		Pentagonal? False
+Checking P45 and P47
+	3015 + 3290 = 6305
+		Pentagonal? True
+	3290 - 3015 = 275.0
+		Pentagonal? False
+Checking P46 and P48
+	3151 + 3432 = 6583
+		Pentagonal? False
+	3432 - 3151 = 281.0
+		Pentagonal? False
+Checking P47 and P49
+	3290 + 3577 = 6867
+		Pentagonal? False
+	3577 - 3290 = 287.0
+		Pentagonal? True
+Checking P48 and P50
+	3432 + 3725 = 7157
+		Pentagonal? False
+	3725 - 3432 = 293.0
+		Pentagonal? False
+Checking P49 and P51
+	3577 + 3876 = 7453
+		Pentagonal? False
+	3876 - 3577 = 299.0
+		Pentagonal? False
+Checking P50 and P52
+	3725 + 4030 = 7755
+		Pentagonal? False
+	4030 - 3725 = 305.0
+		Pentagonal? False
+Checking P51 and P53
+	3876 + 4187 = 8063
+		Pentagonal? False
+	4187 - 3876 = 311.0
+		Pentagonal? False
+Checking P52 and P54
+	4030 + 4347 = 8377
+		Pentagonal? False
+	4347 - 4030 = 317.0
+		Pentagonal? False
+Checking P53 and P55
+	4187 + 4510 = 8697
+		Pentagonal? False
+	4510 - 4187 = 323.0
+		Pentagonal? False
+Checking P54 and P56
+	4347 + 4676 = 9023
+		Pentagonal? False
+	4676 - 4347 = 329.0
+		Pentagonal? False
+Checking P55 and P57
+	4510 + 4845 = 9355
+		Pentagonal? False
+	4845 - 4510 = 335.0
+		Pentagonal? False
+Checking P56 and P58
+	4676 + 5017 = 9693
+		Pentagonal? False
+	5017 - 4676 = 341.0
+		Pentagonal? False
+Checking P57 and P59
+	4845 + 5192 = 10037
+		Pentagonal? False
+	5192 - 4845 = 347.0
+		Pentagonal? False
+Checking P58 and P60
+	5017 + 5370 = 10387
+		Pentagonal? False
+	5370 - 5017 = 353.0
+		Pentagonal? False
+Checking P59 and P61
+	5192 + 5551 = 10743
+		Pentagonal? False
+	5551 - 5192 = 359.0
+		Pentagonal? False
+Checking P60 and P62
+	5370 + 5735 = 11105
+		Pentagonal? False
+	5735 - 5370 = 365.0
+		Pentagonal? False
+Checking P61 and P63
+	5551 + 5922 = 11473
+		Pentagonal? False
+	5922 - 5551 = 371.0
+		Pentagonal? False
+Checking P62 and P64
+	5735 + 6112 = 11847
+		Pentagonal? False
+	6112 - 5735 = 377.0
+		Pentagonal? False
+Checking P63 and P65
+	5922 + 6305 = 12227
+		Pentagonal? False
+	6305 - 5922 = 383.0
+		Pentagonal? False
+Checking P64 and P66
+	6112 + 6501 = 12613
+		Pentagonal? False
+	6501 - 6112 = 389.0
+		Pentagonal? False
+Checking P65 and P67
+	6305 + 6700 = 13005
+		Pentagonal? False
+	6700 - 6305 = 395.0
+		Pentagonal? False
+Checking P66 and P68
+	6501 + 6902 = 13403
+		Pentagonal? False
+	6902 - 6501 = 401.0
+		Pentagonal? False
+Checking P67 and P69
+	6700 + 7107 = 13807
+		Pentagonal? False
+	7107 - 6700 = 407.0
+		Pentagonal? False
+Checking P68 and P70
+	6902 + 7315 = 14217
+		Pentagonal? False
+	7315 - 6902 = 413.0
+		Pentagonal? False
+Checking P69 and P71
+	7107 + 7526 = 14633
+		Pentagonal? False
+	7526 - 7107 = 419.0
+		Pentagonal? False
+Checking P70 and P72
+	7315 + 7740 = 15055
+		Pentagonal? False
+	7740 - 7315 = 425.0
+		Pentagonal? True
+Checking P71 and P73
+	7526 + 7957 = 15483
+		Pentagonal? False
+	7957 - 7526 = 431.0
+		Pentagonal? False
+Checking P72 and P74
+	7740 + 8177 = 15917
+		Pentagonal? False
+	8177 - 7740 = 437.0
+		Pentagonal? False
+Checking P73 and P75
+	7957 + 8400 = 16357
+		Pentagonal? False
+	8400 - 7957 = 443.0
+		Pentagonal? False
+Checking P74 and P76
+	8177 + 8626 = 16803
+		Pentagonal? False
+	8626 - 8177 = 449.0
+		Pentagonal? False
+Checking P75 and P77
+	8400 + 8855 = 17255
+		Pentagonal? False
+	8855 - 8400 = 455.0
+		Pentagonal? False
+Checking P76 and P78
+	8626 + 9087 = 17713
+		Pentagonal? False
+	9087 - 8626 = 461.0
+		Pentagonal? False
+Checking P77 and P79
+	8855 + 9322 = 18177
+		Pentagonal? False
+	9322 - 8855 = 467.0
+		Pentagonal? False
+Checking P78 and P80
+	9087 + 9560 = 18647
+		Pentagonal? False
+	9560 - 9087 = 473.0
+		Pentagonal? False
+Checking P79 and P81
+	9322 + 9801 = 19123
+		Pentagonal? False
+	9801 - 9322 = 479.0
+		Pentagonal? False
+Checking P80 and P82
+	9560 + 10045 = 19605
+		Pentagonal? False
+	10045 - 9560 = 485.0
+		Pentagonal? False
+Checking P81 and P83
+	9801 + 10292 = 20093
+		Pentagonal? False
+	10292 - 9801 = 491.0
+		Pentagonal? False
+Checking P82 and P84
+	10045 + 10542 = 20587
+		Pentagonal? False
+	10542 - 10045 = 497.0
+		Pentagonal? False
+Checking P83 and P85
+	10292 + 10795 = 21087
+		Pentagonal? False
+	10795 - 10292 = 503.0
+		Pentagonal? False
+Checking P84 and P86
+	10542 + 11051 = 21593
+		Pentagonal? False
+	11051 - 10542 = 509.0
+		Pentagonal? False
+Checking P85 and P87
+	10795 + 11310 = 22105
+		Pentagonal? False
+	11310 - 10795 = 515.0
+		Pentagonal? False
+Checking P86 and P88
+	11051 + 11572 = 22623
+		Pentagonal? False
+	11572 - 11051 = 521.0
+		Pentagonal? False
+Checking P87 and P89
+	11310 + 11837 = 23147
+		Pentagonal? False
+	11837 - 11310 = 527.0
+		Pentagonal? False
+Checking P88 and P90
+	11572 + 12105 = 23677
+		Pentagonal? False
+	12105 - 11572 = 533.0
+		Pentagonal? False
+Checking P89 and P91
+	11837 + 12376 = 24213
+		Pentagonal? False
+	12376 - 11837 = 539.0
+		Pentagonal? False
+Checking P90 and P92
+	12105 + 12650 = 24755
+		Pentagonal? False
+	12650 - 12105 = 545.0
+		Pentagonal? False
+Checking P91 and P93
+	12376 + 12927 = 25303
+		Pentagonal? False
+	12927 - 12376 = 551.0
+		Pentagonal? False
+Checking P92 and P94
+	12650 + 13207 = 25857
+		Pentagonal? False
+	13207 - 12650 = 557.0
+		Pentagonal? False
+Checking P93 and P95
+	12927 + 13490 = 26417
+		Pentagonal? False
+	13490 - 12927 = 563.0
+		Pentagonal? False
+Checking P94 and P96
+	13207 + 13776 = 26983
+		Pentagonal? False
+	13776 - 13207 = 569.0
+		Pentagonal? False
+Checking P95 and P97
+	13490 + 14065 = 27555
+		Pentagonal? False
+	14065 - 13490 = 575.0
+		Pentagonal? False
+Checking P96 and P98
+	13776 + 14357 = 28133
+		Pentagonal? False
+	14357 - 13776 = 581.0
+		Pentagonal? False
+Checking P97 and P99
+	14065 + 14652 = 28717
+		Pentagonal? False
+	14652 - 14065 = 587.0
+		Pentagonal? False
+Checking P98 and P100
+	14357 + 14950 = 29307
+		Pentagonal? False
+	14950 - 14357 = 593.0
+		Pentagonal? False
+Checking P99 and P101
+	14652 + 15251 = 29903
+		Pentagonal? False
+	15251 - 14652 = 599.0
+		Pentagonal? False
+Found 0 interesting pairs
+[]
+This took 0.0376620292664 s
+
+
+2019-08-28 09:01:39.361839
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking pairs of pentagonal numbers with max n = 100 and difference nk-nj = 1
+Checking P1 and P2
+	1 + 5 = 6
+		Pentagonal? False
+	5 - 1 = 4
+		Pentagonal? False
+Checking P2 and P3
+	5 + 12 = 17
+		Pentagonal? False
+	12 - 5 = 7
+		Pentagonal? False
+Checking P3 and P4
+	12 + 22 = 34
+		Pentagonal? False
+	22 - 12 = 10
+		Pentagonal? False
+Checking P4 and P5
+	22 + 35 = 57
+		Pentagonal? False
+	35 - 22 = 13
+		Pentagonal? False
+Checking P5 and P6
+	35 + 51 = 86
+		Pentagonal? False
+	51 - 35 = 16
+		Pentagonal? False
+Checking P6 and P7
+	51 + 70 = 121
+		Pentagonal? False
+	70 - 51 = 19
+		Pentagonal? False
+Checking P7 and P8
+	70 + 92 = 162
+		Pentagonal? False
+	92 - 70 = 22
+		Pentagonal? True
+Checking P8 and P9
+	92 + 117 = 209
+		Pentagonal? False
+	117 - 92 = 25
+		Pentagonal? False
+Checking P9 and P10
+	117 + 145 = 262
+		Pentagonal? False
+	145 - 117 = 28
+		Pentagonal? False
+Checking P10 and P11
+	145 + 176 = 321
+		Pentagonal? False
+	176 - 145 = 31
+		Pentagonal? False
+Checking P11 and P12
+	176 + 210 = 386
+		Pentagonal? False
+	210 - 176 = 34
+		Pentagonal? False
+Checking P12 and P13
+	210 + 247 = 457
+		Pentagonal? False
+	247 - 210 = 37
+		Pentagonal? False
+Checking P13 and P14
+	247 + 287 = 534
+		Pentagonal? False
+	287 - 247 = 40
+		Pentagonal? False
+Checking P14 and P15
+	287 + 330 = 617
+		Pentagonal? False
+	330 - 287 = 43
+		Pentagonal? False
+Checking P15 and P16
+	330 + 376 = 706
+		Pentagonal? False
+	376 - 330 = 46
+		Pentagonal? False
+Checking P16 and P17
+	376 + 425 = 801
+		Pentagonal? False
+	425 - 376 = 49
+		Pentagonal? False
+Checking P17 and P18
+	425 + 477 = 902
+		Pentagonal? False
+	477 - 425 = 52
+		Pentagonal? False
+Checking P18 and P19
+	477 + 532 = 1009
+		Pentagonal? False
+	532 - 477 = 55
+		Pentagonal? False
+Checking P19 and P20
+	532 + 590 = 1122
+		Pentagonal? False
+	590 - 532 = 58
+		Pentagonal? False
+Checking P20 and P21
+	590 + 651 = 1241
+		Pentagonal? False
+	651 - 590 = 61
+		Pentagonal? False
+Checking P21 and P22
+	651 + 715 = 1366
+		Pentagonal? False
+	715 - 651 = 64
+		Pentagonal? False
+Checking P22 and P23
+	715 + 782 = 1497
+		Pentagonal? False
+	782 - 715 = 67
+		Pentagonal? False
+Checking P23 and P24
+	782 + 852 = 1634
+		Pentagonal? False
+	852 - 782 = 70
+		Pentagonal? True
+Checking P24 and P25
+	852 + 925 = 1777
+		Pentagonal? False
+	925 - 852 = 73
+		Pentagonal? False
+Checking P25 and P26
+	925 + 1001 = 1926
+		Pentagonal? True
+	1001 - 925 = 76
+		Pentagonal? False
+Checking P26 and P27
+	1001 + 1080 = 2081
+		Pentagonal? False
+	1080 - 1001 = 79
+		Pentagonal? False
+Checking P27 and P28
+	1080 + 1162 = 2242
+		Pentagonal? False
+	1162 - 1080 = 82
+		Pentagonal? False
+Checking P28 and P29
+	1162 + 1247 = 2409
+		Pentagonal? False
+	1247 - 1162 = 85
+		Pentagonal? False
+Checking P29 and P30
+	1247 + 1335 = 2582
+		Pentagonal? False
+	1335 - 1247 = 88
+		Pentagonal? False
+Checking P30 and P31
+	1335 + 1426 = 2761
+		Pentagonal? False
+	1426 - 1335 = 91
+		Pentagonal? False
+Checking P31 and P32
+	1426 + 1520 = 2946
+		Pentagonal? False
+	1520 - 1426 = 94
+		Pentagonal? False
+Checking P32 and P33
+	1520 + 1617 = 3137
+		Pentagonal? False
+	1617 - 1520 = 97
+		Pentagonal? False
+Checking P33 and P34
+	1617 + 1717 = 3334
+		Pentagonal? False
+	1717 - 1617 = 100
+		Pentagonal? False
+Checking P34 and P35
+	1717 + 1820 = 3537
+		Pentagonal? False
+	1820 - 1717 = 103
+		Pentagonal? False
+Checking P35 and P36
+	1820 + 1926 = 3746
+		Pentagonal? False
+	1926 - 1820 = 106
+		Pentagonal? False
+Checking P36 and P37
+	1926 + 2035 = 3961
+		Pentagonal? False
+	2035 - 1926 = 109
+		Pentagonal? False
+Checking P37 and P38
+	2035 + 2147 = 4182
+		Pentagonal? False
+	2147 - 2035 = 112
+		Pentagonal? False
+Checking P38 and P39
+	2147 + 2262 = 4409
+		Pentagonal? False
+	2262 - 2147 = 115
+		Pentagonal? False
+Checking P39 and P40
+	2262 + 2380 = 4642
+		Pentagonal? False
+	2380 - 2262 = 118
+		Pentagonal? False
+Checking P40 and P41
+	2380 + 2501 = 4881
+		Pentagonal? False
+	2501 - 2380 = 121
+		Pentagonal? False
+Checking P41 and P42
+	2501 + 2625 = 5126
+		Pentagonal? False
+	2625 - 2501 = 124
+		Pentagonal? False
+Checking P42 and P43
+	2625 + 2752 = 5377
+		Pentagonal? False
+	2752 - 2625 = 127
+		Pentagonal? False
+Checking P43 and P44
+	2752 + 2882 = 5634
+		Pentagonal? False
+	2882 - 2752 = 130
+		Pentagonal? False
+Checking P44 and P45
+	2882 + 3015 = 5897
+		Pentagonal? False
+	3015 - 2882 = 133
+		Pentagonal? False
+Checking P45 and P46
+	3015 + 3151 = 6166
+		Pentagonal? False
+	3151 - 3015 = 136
+		Pentagonal? False
+Checking P46 and P47
+	3151 + 3290 = 6441
+		Pentagonal? False
+	3290 - 3151 = 139
+		Pentagonal? False
+Checking P47 and P48
+	3290 + 3432 = 6722
+		Pentagonal? False
+	3432 - 3290 = 142
+		Pentagonal? False
+Checking P48 and P49
+	3432 + 3577 = 7009
+		Pentagonal? False
+	3577 - 3432 = 145
+		Pentagonal? True
+Checking P49 and P50
+	3577 + 3725 = 7302
+		Pentagonal? False
+	3725 - 3577 = 148
+		Pentagonal? False
+Checking P50 and P51
+	3725 + 3876 = 7601
+		Pentagonal? False
+	3876 - 3725 = 151
+		Pentagonal? False
+Checking P51 and P52
+	3876 + 4030 = 7906
+		Pentagonal? False
+	4030 - 3876 = 154
+		Pentagonal? False
+Checking P52 and P53
+	4030 + 4187 = 8217
+		Pentagonal? False
+	4187 - 4030 = 157
+		Pentagonal? False
+Checking P53 and P54
+	4187 + 4347 = 8534
+		Pentagonal? False
+	4347 - 4187 = 160
+		Pentagonal? False
+Checking P54 and P55
+	4347 + 4510 = 8857
+		Pentagonal? False
+	4510 - 4347 = 163
+		Pentagonal? False
+Checking P55 and P56
+	4510 + 4676 = 9186
+		Pentagonal? False
+	4676 - 4510 = 166
+		Pentagonal? False
+Checking P56 and P57
+	4676 + 4845 = 9521
+		Pentagonal? False
+	4845 - 4676 = 169
+		Pentagonal? False
+Checking P57 and P58
+	4845 + 5017 = 9862
+		Pentagonal? False
+	5017 - 4845 = 172
+		Pentagonal? False
+Checking P58 and P59
+	5017 + 5192 = 10209
+		Pentagonal? False
+	5192 - 5017 = 175
+		Pentagonal? False
+Checking P59 and P60
+	5192 + 5370 = 10562
+		Pentagonal? False
+	5370 - 5192 = 178
+		Pentagonal? False
+Checking P60 and P61
+	5370 + 5551 = 10921
+		Pentagonal? False
+	5551 - 5370 = 181
+		Pentagonal? False
+Checking P61 and P62
+	5551 + 5735 = 11286
+		Pentagonal? False
+	5735 - 5551 = 184
+		Pentagonal? False
+Checking P62 and P63
+	5735 + 5922 = 11657
+		Pentagonal? False
+	5922 - 5735 = 187
+		Pentagonal? False
+Checking P63 and P64
+	5922 + 6112 = 12034
+		Pentagonal? False
+	6112 - 5922 = 190
+		Pentagonal? False
+Checking P64 and P65
+	6112 + 6305 = 12417
+		Pentagonal? False
+	6305 - 6112 = 193
+		Pentagonal? False
+Checking P65 and P66
+	6305 + 6501 = 12806
+		Pentagonal? False
+	6501 - 6305 = 196
+		Pentagonal? False
+Checking P66 and P67
+	6501 + 6700 = 13201
+		Pentagonal? False
+	6700 - 6501 = 199
+		Pentagonal? False
+Checking P67 and P68
+	6700 + 6902 = 13602
+		Pentagonal? False
+	6902 - 6700 = 202
+		Pentagonal? False
+Checking P68 and P69
+	6902 + 7107 = 14009
+		Pentagonal? False
+	7107 - 6902 = 205
+		Pentagonal? False
+Checking P69 and P70
+	7107 + 7315 = 14422
+		Pentagonal? False
+	7315 - 7107 = 208
+		Pentagonal? False
+Checking P70 and P71
+	7315 + 7526 = 14841
+		Pentagonal? False
+	7526 - 7315 = 211
+		Pentagonal? False
+Checking P71 and P72
+	7526 + 7740 = 15266
+		Pentagonal? False
+	7740 - 7526 = 214
+		Pentagonal? False
+Checking P72 and P73
+	7740 + 7957 = 15697
+		Pentagonal? False
+	7957 - 7740 = 217
+		Pentagonal? False
+Checking P73 and P74
+	7957 + 8177 = 16134
+		Pentagonal? False
+	8177 - 7957 = 220
+		Pentagonal? False
+Checking P74 and P75
+	8177 + 8400 = 16577
+		Pentagonal? False
+	8400 - 8177 = 223
+		Pentagonal? False
+Checking P75 and P76
+	8400 + 8626 = 17026
+		Pentagonal? False
+	8626 - 8400 = 226
+		Pentagonal? False
+Checking P76 and P77
+	8626 + 8855 = 17481
+		Pentagonal? False
+	8855 - 8626 = 229
+		Pentagonal? False
+Checking P77 and P78
+	8855 + 9087 = 17942
+		Pentagonal? False
+	9087 - 8855 = 232
+		Pentagonal? False
+Checking P78 and P79
+	9087 + 9322 = 18409
+		Pentagonal? False
+	9322 - 9087 = 235
+		Pentagonal? False
+Checking P79 and P80
+	9322 + 9560 = 18882
+		Pentagonal? False
+	9560 - 9322 = 238
+		Pentagonal? False
+Checking P80 and P81
+	9560 + 9801 = 19361
+		Pentagonal? False
+	9801 - 9560 = 241
+		Pentagonal? False
+Checking P81 and P82
+	9801 + 10045 = 19846
+		Pentagonal? False
+	10045 - 9801 = 244
+		Pentagonal? False
+Checking P82 and P83
+	10045 + 10292 = 20337
+		Pentagonal? False
+	10292 - 10045 = 247
+		Pentagonal? True
+Checking P83 and P84
+	10292 + 10542 = 20834
+		Pentagonal? False
+	10542 - 10292 = 250
+		Pentagonal? False
+Checking P84 and P85
+	10542 + 10795 = 21337
+		Pentagonal? False
+	10795 - 10542 = 253
+		Pentagonal? False
+Checking P85 and P86
+	10795 + 11051 = 21846
+		Pentagonal? False
+	11051 - 10795 = 256
+		Pentagonal? False
+Checking P86 and P87
+	11051 + 11310 = 22361
+		Pentagonal? False
+	11310 - 11051 = 259
+		Pentagonal? False
+Checking P87 and P88
+	11310 + 11572 = 22882
+		Pentagonal? False
+	11572 - 11310 = 262
+		Pentagonal? False
+Checking P88 and P89
+	11572 + 11837 = 23409
+		Pentagonal? False
+	11837 - 11572 = 265
+		Pentagonal? False
+Checking P89 and P90
+	11837 + 12105 = 23942
+		Pentagonal? False
+	12105 - 11837 = 268
+		Pentagonal? False
+Checking P90 and P91
+	12105 + 12376 = 24481
+		Pentagonal? False
+	12376 - 12105 = 271
+		Pentagonal? False
+Checking P91 and P92
+	12376 + 12650 = 25026
+		Pentagonal? False
+	12650 - 12376 = 274
+		Pentagonal? False
+Checking P92 and P93
+	12650 + 12927 = 25577
+		Pentagonal? False
+	12927 - 12650 = 277
+		Pentagonal? False
+Checking P93 and P94
+	12927 + 13207 = 26134
+		Pentagonal? False
+	13207 - 12927 = 280
+		Pentagonal? False
+Checking P94 and P95
+	13207 + 13490 = 26697
+		Pentagonal? False
+	13490 - 13207 = 283
+		Pentagonal? False
+Checking P95 and P96
+	13490 + 13776 = 27266
+		Pentagonal? False
+	13776 - 13490 = 286
+		Pentagonal? False
+Checking P96 and P97
+	13776 + 14065 = 27841
+		Pentagonal? False
+	14065 - 13776 = 289
+		Pentagonal? False
+Checking P97 and P98
+	14065 + 14357 = 28422
+		Pentagonal? False
+	14357 - 14065 = 292
+		Pentagonal? False
+Checking P98 and P99
+	14357 + 14652 = 29009
+		Pentagonal? False
+	14652 - 14357 = 295
+		Pentagonal? False
+Checking P99 and P100
+	14652 + 14950 = 29602
+		Pentagonal? False
+	14950 - 14652 = 298
+		Pentagonal? False
+Found 0 interesting pairs
+[]
+Checking pairs of pentagonal numbers with max n = 100 and difference nk-nj = 2
+Checking P1 and P3
+	1 + 12 = 13
+		Pentagonal? False
+	12 - 1 = 11
+		Pentagonal? False
+Checking P2 and P4
+	5 + 22 = 27
+		Pentagonal? False
+	22 - 5 = 17
+		Pentagonal? False
+Checking P3 and P5
+	12 + 35 = 47
+		Pentagonal? False
+	35 - 12 = 23
+		Pentagonal? False
+Checking P4 and P6
+	22 + 51 = 73
+		Pentagonal? False
+	51 - 22 = 29
+		Pentagonal? False
+Checking P5 and P7
+	35 + 70 = 105
+		Pentagonal? False
+	70 - 35 = 35
+		Pentagonal? True
+Checking P6 and P8
+	51 + 92 = 143
+		Pentagonal? False
+	92 - 51 = 41
+		Pentagonal? False
+Checking P7 and P9
+	70 + 117 = 187
+		Pentagonal? False
+	117 - 70 = 47
+		Pentagonal? False
+Checking P8 and P10
+	92 + 145 = 237
+		Pentagonal? False
+	145 - 92 = 53
+		Pentagonal? False
+Checking P9 and P11
+	117 + 176 = 293
+		Pentagonal? False
+	176 - 117 = 59
+		Pentagonal? False
+Checking P10 and P12
+	145 + 210 = 355
+		Pentagonal? False
+	210 - 145 = 65
+		Pentagonal? False
+Checking P11 and P13
+	176 + 247 = 423
+		Pentagonal? False
+	247 - 176 = 71
+		Pentagonal? False
+Checking P12 and P14
+	210 + 287 = 497
+		Pentagonal? False
+	287 - 210 = 77
+		Pentagonal? False
+Checking P13 and P15
+	247 + 330 = 577
+		Pentagonal? False
+	330 - 247 = 83
+		Pentagonal? False
+Checking P14 and P16
+	287 + 376 = 663
+		Pentagonal? False
+	376 - 287 = 89
+		Pentagonal? False
+Checking P15 and P17
+	330 + 425 = 755
+		Pentagonal? False
+	425 - 330 = 95
+		Pentagonal? False
+Checking P16 and P18
+	376 + 477 = 853
+		Pentagonal? False
+	477 - 376 = 101
+		Pentagonal? False
+Checking P17 and P19
+	425 + 532 = 957
+		Pentagonal? False
+	532 - 425 = 107
+		Pentagonal? False
+Checking P18 and P20
+	477 + 590 = 1067
+		Pentagonal? False
+	590 - 477 = 113
+		Pentagonal? False
+Checking P19 and P21
+	532 + 651 = 1183
+		Pentagonal? False
+	651 - 532 = 119
+		Pentagonal? False
+Checking P20 and P22
+	590 + 715 = 1305
+		Pentagonal? False
+	715 - 590 = 125
+		Pentagonal? False
+Checking P21 and P23
+	651 + 782 = 1433
+		Pentagonal? False
+	782 - 651 = 131
+		Pentagonal? False
+Checking P22 and P24
+	715 + 852 = 1567
+		Pentagonal? False
+	852 - 715 = 137
+		Pentagonal? False
+Checking P23 and P25
+	782 + 925 = 1707
+		Pentagonal? False
+	925 - 782 = 143
+		Pentagonal? False
+Checking P24 and P26
+	852 + 1001 = 1853
+		Pentagonal? False
+	1001 - 852 = 149
+		Pentagonal? False
+Checking P25 and P27
+	925 + 1080 = 2005
+		Pentagonal? False
+	1080 - 925 = 155
+		Pentagonal? False
+Checking P26 and P28
+	1001 + 1162 = 2163
+		Pentagonal? False
+	1162 - 1001 = 161
+		Pentagonal? False
+Checking P27 and P29
+	1080 + 1247 = 2327
+		Pentagonal? False
+	1247 - 1080 = 167
+		Pentagonal? False
+Checking P28 and P30
+	1162 + 1335 = 2497
+		Pentagonal? False
+	1335 - 1162 = 173
+		Pentagonal? False
+Checking P29 and P31
+	1247 + 1426 = 2673
+		Pentagonal? False
+	1426 - 1247 = 179
+		Pentagonal? False
+Checking P30 and P32
+	1335 + 1520 = 2855
+		Pentagonal? False
+	1520 - 1335 = 185
+		Pentagonal? False
+Checking P31 and P33
+	1426 + 1617 = 3043
+		Pentagonal? False
+	1617 - 1426 = 191
+		Pentagonal? False
+Checking P32 and P34
+	1520 + 1717 = 3237
+		Pentagonal? False
+	1717 - 1520 = 197
+		Pentagonal? False
+Checking P33 and P35
+	1617 + 1820 = 3437
+		Pentagonal? False
+	1820 - 1617 = 203
+		Pentagonal? False
+Checking P34 and P36
+	1717 + 1926 = 3643
+		Pentagonal? False
+	1926 - 1717 = 209
+		Pentagonal? False
+Checking P35 and P37
+	1820 + 2035 = 3855
+		Pentagonal? False
+	2035 - 1820 = 215
+		Pentagonal? False
+Checking P36 and P38
+	1926 + 2147 = 4073
+		Pentagonal? False
+	2147 - 1926 = 221
+		Pentagonal? False
+Checking P37 and P39
+	2035 + 2262 = 4297
+		Pentagonal? False
+	2262 - 2035 = 227
+		Pentagonal? False
+Checking P38 and P40
+	2147 + 2380 = 4527
+		Pentagonal? False
+	2380 - 2147 = 233
+		Pentagonal? False
+Checking P39 and P41
+	2262 + 2501 = 4763
+		Pentagonal? False
+	2501 - 2262 = 239
+		Pentagonal? False
+Checking P40 and P42
+	2380 + 2625 = 5005
+		Pentagonal? False
+	2625 - 2380 = 245
+		Pentagonal? False
+Checking P41 and P43
+	2501 + 2752 = 5253
+		Pentagonal? False
+	2752 - 2501 = 251
+		Pentagonal? False
+Checking P42 and P44
+	2625 + 2882 = 5507
+		Pentagonal? False
+	2882 - 2625 = 257
+		Pentagonal? False
+Checking P43 and P45
+	2752 + 3015 = 5767
+		Pentagonal? False
+	3015 - 2752 = 263
+		Pentagonal? False
+Checking P44 and P46
+	2882 + 3151 = 6033
+		Pentagonal? False
+	3151 - 2882 = 269
+		Pentagonal? False
+Checking P45 and P47
+	3015 + 3290 = 6305
+		Pentagonal? True
+	3290 - 3015 = 275
+		Pentagonal? False
+Checking P46 and P48
+	3151 + 3432 = 6583
+		Pentagonal? False
+	3432 - 3151 = 281
+		Pentagonal? False
+Checking P47 and P49
+	3290 + 3577 = 6867
+		Pentagonal? False
+	3577 - 3290 = 287
+		Pentagonal? True
+Checking P48 and P50
+	3432 + 3725 = 7157
+		Pentagonal? False
+	3725 - 3432 = 293
+		Pentagonal? False
+Checking P49 and P51
+	3577 + 3876 = 7453
+		Pentagonal? False
+	3876 - 3577 = 299
+		Pentagonal? False
+Checking P50 and P52
+	3725 + 4030 = 7755
+		Pentagonal? False
+	4030 - 3725 = 305
+		Pentagonal? False
+Checking P51 and P53
+	3876 + 4187 = 8063
+		Pentagonal? False
+	4187 - 3876 = 311
+		Pentagonal? False
+Checking P52 and P54
+	4030 + 4347 = 8377
+		Pentagonal? False
+	4347 - 4030 = 317
+		Pentagonal? False
+Checking P53 and P55
+	4187 + 4510 = 8697
+		Pentagonal? False
+	4510 - 4187 = 323
+		Pentagonal? False
+Checking P54 and P56
+	4347 + 4676 = 9023
+		Pentagonal? False
+	4676 - 4347 = 329
+		Pentagonal? False
+Checking P55 and P57
+	4510 + 4845 = 9355
+		Pentagonal? False
+	4845 - 4510 = 335
+		Pentagonal? False
+Checking P56 and P58
+	4676 + 5017 = 9693
+		Pentagonal? False
+	5017 - 4676 = 341
+		Pentagonal? False
+Checking P57 and P59
+	4845 + 5192 = 10037
+		Pentagonal? False
+	5192 - 4845 = 347
+		Pentagonal? False
+Checking P58 and P60
+	5017 + 5370 = 10387
+		Pentagonal? False
+	5370 - 5017 = 353
+		Pentagonal? False
+Checking P59 and P61
+	5192 + 5551 = 10743
+		Pentagonal? False
+	5551 - 5192 = 359
+		Pentagonal? False
+Checking P60 and P62
+	5370 + 5735 = 11105
+		Pentagonal? False
+	5735 - 5370 = 365
+		Pentagonal? False
+Checking P61 and P63
+	5551 + 5922 = 11473
+		Pentagonal? False
+	5922 - 5551 = 371
+		Pentagonal? False
+Checking P62 and P64
+	5735 + 6112 = 11847
+		Pentagonal? False
+	6112 - 5735 = 377
+		Pentagonal? False
+Checking P63 and P65
+	5922 + 6305 = 12227
+		Pentagonal? False
+	6305 - 5922 = 383
+		Pentagonal? False
+Checking P64 and P66
+	6112 + 6501 = 12613
+		Pentagonal? False
+	6501 - 6112 = 389
+		Pentagonal? False
+Checking P65 and P67
+	6305 + 6700 = 13005
+		Pentagonal? False
+	6700 - 6305 = 395
+		Pentagonal? False
+Checking P66 and P68
+	6501 + 6902 = 13403
+		Pentagonal? False
+	6902 - 6501 = 401
+		Pentagonal? False
+Checking P67 and P69
+	6700 + 7107 = 13807
+		Pentagonal? False
+	7107 - 6700 = 407
+		Pentagonal? False
+Checking P68 and P70
+	6902 + 7315 = 14217
+		Pentagonal? False
+	7315 - 6902 = 413
+		Pentagonal? False
+Checking P69 and P71
+	7107 + 7526 = 14633
+		Pentagonal? False
+	7526 - 7107 = 419
+		Pentagonal? False
+Checking P70 and P72
+	7315 + 7740 = 15055
+		Pentagonal? False
+	7740 - 7315 = 425
+		Pentagonal? True
+Checking P71 and P73
+	7526 + 7957 = 15483
+		Pentagonal? False
+	7957 - 7526 = 431
+		Pentagonal? False
+Checking P72 and P74
+	7740 + 8177 = 15917
+		Pentagonal? False
+	8177 - 7740 = 437
+		Pentagonal? False
+Checking P73 and P75
+	7957 + 8400 = 16357
+		Pentagonal? False
+	8400 - 7957 = 443
+		Pentagonal? False
+Checking P74 and P76
+	8177 + 8626 = 16803
+		Pentagonal? False
+	8626 - 8177 = 449
+		Pentagonal? False
+Checking P75 and P77
+	8400 + 8855 = 17255
+		Pentagonal? False
+	8855 - 8400 = 455
+		Pentagonal? False
+Checking P76 and P78
+	8626 + 9087 = 17713
+		Pentagonal? False
+	9087 - 8626 = 461
+		Pentagonal? False
+Checking P77 and P79
+	8855 + 9322 = 18177
+		Pentagonal? False
+	9322 - 8855 = 467
+		Pentagonal? False
+Checking P78 and P80
+	9087 + 9560 = 18647
+		Pentagonal? False
+	9560 - 9087 = 473
+		Pentagonal? False
+Checking P79 and P81
+	9322 + 9801 = 19123
+		Pentagonal? False
+	9801 - 9322 = 479
+		Pentagonal? False
+Checking P80 and P82
+	9560 + 10045 = 19605
+		Pentagonal? False
+	10045 - 9560 = 485
+		Pentagonal? False
+Checking P81 and P83
+	9801 + 10292 = 20093
+		Pentagonal? False
+	10292 - 9801 = 491
+		Pentagonal? False
+Checking P82 and P84
+	10045 + 10542 = 20587
+		Pentagonal? False
+	10542 - 10045 = 497
+		Pentagonal? False
+Checking P83 and P85
+	10292 + 10795 = 21087
+		Pentagonal? False
+	10795 - 10292 = 503
+		Pentagonal? False
+Checking P84 and P86
+	10542 + 11051 = 21593
+		Pentagonal? False
+	11051 - 10542 = 509
+		Pentagonal? False
+Checking P85 and P87
+	10795 + 11310 = 22105
+		Pentagonal? False
+	11310 - 10795 = 515
+		Pentagonal? False
+Checking P86 and P88
+	11051 + 11572 = 22623
+		Pentagonal? False
+	11572 - 11051 = 521
+		Pentagonal? False
+Checking P87 and P89
+	11310 + 11837 = 23147
+		Pentagonal? False
+	11837 - 11310 = 527
+		Pentagonal? False
+Checking P88 and P90
+	11572 + 12105 = 23677
+		Pentagonal? False
+	12105 - 11572 = 533
+		Pentagonal? False
+Checking P89 and P91
+	11837 + 12376 = 24213
+		Pentagonal? False
+	12376 - 11837 = 539
+		Pentagonal? False
+Checking P90 and P92
+	12105 + 12650 = 24755
+		Pentagonal? False
+	12650 - 12105 = 545
+		Pentagonal? False
+Checking P91 and P93
+	12376 + 12927 = 25303
+		Pentagonal? False
+	12927 - 12376 = 551
+		Pentagonal? False
+Checking P92 and P94
+	12650 + 13207 = 25857
+		Pentagonal? False
+	13207 - 12650 = 557
+		Pentagonal? False
+Checking P93 and P95
+	12927 + 13490 = 26417
+		Pentagonal? False
+	13490 - 12927 = 563
+		Pentagonal? False
+Checking P94 and P96
+	13207 + 13776 = 26983
+		Pentagonal? False
+	13776 - 13207 = 569
+		Pentagonal? False
+Checking P95 and P97
+	13490 + 14065 = 27555
+		Pentagonal? False
+	14065 - 13490 = 575
+		Pentagonal? False
+Checking P96 and P98
+	13776 + 14357 = 28133
+		Pentagonal? False
+	14357 - 13776 = 581
+		Pentagonal? False
+Checking P97 and P99
+	14065 + 14652 = 28717
+		Pentagonal? False
+	14652 - 14065 = 587
+		Pentagonal? False
+Checking P98 and P100
+	14357 + 14950 = 29307
+		Pentagonal? False
+	14950 - 14357 = 593
+		Pentagonal? False
+Checking P99 and P101
+	14652 + 15251 = 29903
+		Pentagonal? False
+	15251 - 14652 = 599
+		Pentagonal? False
+Found 0 interesting pairs
+[]
+This took 0.0140721797943 s
+
+
+
+2019-08-28 09:43:23.455798
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Found 0 interesting pairs
+This took 2760.51757097 s
+
+
+2019-08-28 10:34:45.122857
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+2019-08-28 10:40:18.419039
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+2019-08-28 10:44:08.835721
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Found pair: (2, 0)
+[(2, 0)]
+	Found pair: (3, 0)
+[(3, 0)]
+	Found pair: (4, 0)
+[(4, 0)]
+	Found pair: (5, 0)
+[(5, 0)]
+	Found pair: (6, 0)
+[(6, 0)]
+	Found pair: (7, 0)
+[(7, 0)]
+	Found pair: (8, 0)
+[(8, 0)]
+	Found pair: (9, 0)
+[(9, 0)]
+	Found pair: (10, 0)
+[(10, 0)]
+	Found pair: (11, 0)
+	Found pair: (5, -6)
+[(11, 0), (5, -6)]
+	Found pair: (12, 0)
+[(12, 0)]
+	Found pair: (13, 0)
+[(13, 0)]
+	Found pair: (14, 0)
+[(14, 0)]
+	Found pair: (15, 0)
+[(15, 0)]
+	Found pair: (16, 0)
+[(16, 0)]
+	Found pair: (17, 0)
+[(17, 0)]
+	Found pair: (18, 0)
+[(18, 0)]
+	Found pair: (19, 0)
+[(19, 0)]
+	Found pair: (20, 0)
+[(20, 0)]
+	Found pair: (21, 0)
+[(21, 0)]
+	Found pair: (22, 0)
+[(22, 0)]
+	Found pair: (23, 0)
+[(23, 0)]
+	Found pair: (24, 0)
+[(24, 0)]
+	Found pair: (25, 0)
+[(25, 0)]
+	Found pair: (26, 0)
+[(26, 0)]
+	Found pair: (27, 0)
+[(27, 0)]
+	Found pair: (28, 0)
+	Found pair: (15, -13)
+[(28, 0), (15, -13)]
+	Found pair: (29, 0)
+[(29, 0)]
+	Found pair: (30, 0)
+[(30, 0)]
+	Found pair: (31, 0)
+[(31, 0)]
+	Found pair: (32, 0)
+[(32, 0)]
+
+
+2019-08-28 10:50:42.065615
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Found pair: (2, 0)
+[(2, 0)]
+	Found pair: (3, 0)
+[(3, 0)]
+	Found pair: (4, 0)
+[(4, 0)]
+	Found pair: (5, 0)
+[(5, 0)]
+	Found pair: (6, 0)
+[(6, 0)]
+	Found pair: (7, 0)
+[(7, 0)]
+	Found pair: (8, 0)
+[(8, 0)]
+	Found pair: (9, 0)
+[(9, 0)]
+	Found pair: (10, 0)
+[(10, 0)]
+	Found pair: (11, 0)
+	Found pair: (5, -6)
+[(11, 0), (5, -6)]
+	Found pair: (12, 0)
+[(12, 0)]
+	Found pair: (13, 0)
+[(13, 0)]
+	Found pair: (14, 0)
+[(14, 0)]
+	Found pair: (15, 0)
+[(15, 0)]
+
+
+2019-08-28 10:52:22.339016
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Found pair: (2, 0)
+[(2, 0)]
+	Found pair: (3, 0)
+[(3, 0)]
+	Found pair: (4, 0)
+[(4, 0)]
+	Found pair: (5, 0)
+[(5, 0)]
+	Found pair: (6, 0)
+[(6, 0)]

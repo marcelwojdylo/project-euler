@@ -1,0 +1,81 @@
+
+
+2019-08-27 20:50:21.257584
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^PROJECT EULER PROBLEM 43^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This took 5.88893890381e-05 s
+
+
+2019-08-27 20:59:56.411881
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking if 1406357289 has the rather interesting sub-string divisibility property
+
+
+2019-08-27 21:00:23.230899
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking if 1406357289 has the rather interesting sub-string divisibility property
+
+
+2019-08-27 21:01:41.585782
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking if 1406357289 has the rather interesting sub-string divisibility property
+	Passed
+Checking if 1234555111 has the rather interesting sub-string divisibility property
+	Failed
+This took 5.60283660889e-05 s
+
+
+2019-08-27 22:56:08.532873
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for possible zero through nine pandigitals
+Found 3265920 pandigitals
+		1023456789
+		1023456798
+		1023456879
+		1023456897
+		1023456978
+		1023456987
+		1023457689
+		1023457698
+		1023457869
+		1023457896
+		1023457968
+		1023457986
+		1023458679
+		1023458697
+		
+		...
+
+		9876542013
+		9876542031
+		9876542103
+		9876542130
+		9876542301
+		9876542310
+		9876543012
+		9876543021
+		9876543102
+		9876543120
+		9876543201
+		9876543210
+This took 6.76492118835 s
+
+
+2019-08-27 23:00:10.410672
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for numbers which have the rather interesting sub-string divisibility property
+
+
+2019-08-27 23:00:32.256633
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for numbers which have the rather interesting sub-string divisibility property
+Found 6 such numbers:
+1406357289
+1430952867
+1460357289
+4106357289
+4130952867
+4160357289
+Their sum is 16695334890
+This took 10.5589301586 s

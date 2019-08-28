@@ -1,0 +1,252 @@
+2019-08-26 11:12:56.572669
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking if prime 11 is circular
+11 is circular
+Checking if prime 13 is circular
+13 is circular
+Checking if prime 17 is circular
+17 is circular
+Checking if prime 19 is circular
+19 is not circular
+Checking if prime 23 is circular
+23 is not circular
+Checking if prime 29 is circular
+29 is not circular
+Checking if prime 31 is circular
+31 is circular
+Checking if prime 37 is circular
+37 is circular
+Checking if prime 41 is circular
+41 is not circular
+Checking if prime 43 is circular
+43 is not circular
+Checking if prime 47 is circular
+47 is not circular
+Checking if prime 53 is circular
+53 is not circular
+Checking if prime 59 is circular
+59 is not circular
+Checking if prime 61 is circular
+61 is not circular
+Checking if prime 67 is circular
+67 is not circular
+Checking if prime 71 is circular
+71 is circular
+Checking if prime 73 is circular
+73 is circular
+Checking if prime 79 is circular
+79 is circular
+Checking if prime 83 is circular
+83 is not circular
+Checking if prime 89 is circular
+89 is not circular
+Checking if prime 97 is circular
+97 is circular
+2019-08-26 11:16:37.119066
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 100
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+
+
+2019-08-26 11:17:47.949307
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 100
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+9 circular primes found
+
+
+2019-08-26 11:18:32.875445
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 100
+2 is circular
+3 is circular
+5 is circular
+7 is circular
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+13 circular primes found
+
+
+2019-08-26 11:19:00.788132
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 100
+2 is circular
+3 is circular
+5 is circular
+7 is circular
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+--- search finished ---
+13 circular primes found
+
+
+2019-08-26 11:20:00.731002
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 100
+2 is circular
+3 is circular
+5 is circular
+7 is circular
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+--- search finished ---
+13 circular primes found
+This took 0.000468015670776 s
+
+
+2019-08-26 11:20:32.618985
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 1000000
+2 is circular
+3 is circular
+5 is circular
+7 is circular
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+113 is circular
+131 is circular
+197 is circular
+199 is circular
+311 is circular
+337 is circular
+373 is circular
+719 is circular
+733 is circular
+919 is circular
+971 is circular
+991 is circular
+1193 is circular
+1931 is circular
+3119 is circular
+3779 is circular
+7793 is circular
+7937 is circular
+9311 is circular
+9377 is circular
+11939 is circular
+19391 is circular
+19937 is circular
+37199 is circular
+39119 is circular
+71993 is circular
+91193 is circular
+93719 is circular
+93911 is circular
+99371 is circular
+193939 is circular
+199933 is circular
+319993 is circular
+331999 is circular
+391939 is circular
+393919 is circular
+919393 is circular
+933199 is circular
+939193 is circular
+939391 is circular
+
+
+2019-08-26 11:22:10.532967
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Searching for primes in range 1000000
+2 is circular
+3 is circular
+5 is circular
+7 is circular
+11 is circular
+13 is circular
+17 is circular
+31 is circular
+37 is circular
+71 is circular
+73 is circular
+79 is circular
+97 is circular
+113 is circular
+131 is circular
+197 is circular
+199 is circular
+311 is circular
+337 is circular
+373 is circular
+719 is circular
+733 is circular
+919 is circular
+971 is circular
+991 is circular
+1193 is circular
+1931 is circular
+3119 is circular
+3779 is circular
+7793 is circular
+7937 is circular
+9311 is circular
+9377 is circular
+11939 is circular
+19391 is circular
+19937 is circular
+37199 is circular
+39119 is circular
+71993 is circular
+91193 is circular
+93719 is circular
+93911 is circular
+99371 is circular
+193939 is circular
+199933 is circular
+319993 is circular
+331999 is circular
+391939 is circular
+393919 is circular
+919393 is circular
+933199 is circular
+939193 is circular
+939391 is circular
+993319 is circular
+999331 is circular
+--- search finished ---
+55 circular primes found
+This took 6.58723688126 s

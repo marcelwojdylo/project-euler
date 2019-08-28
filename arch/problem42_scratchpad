@@ -1,0 +1,174 @@
+
+
+2019-08-27 20:02:34.863746
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^PROJECT EULER PROBLEM 42^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This took 5.3882598877e-05 s
+
+
+2019-08-27 20:11:00.928476
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Computing word value of IGNACY
+Value of I is 9
+Value of G is 7
+Value of N is 14
+Value of A is 1
+Value of C is 3
+Value of Y is 25
+Total value of IGNACY is 59
+Computing word value of SKY
+Value of S is 19
+Value of K is 11
+Value of Y is 25
+Total value of SKY is 55
+Computing word value of MARCEL
+Value of M is 13
+Value of A is 1
+Value of R is 18
+Value of C is 3
+Value of E is 5
+Value of L is 12
+Total value of MARCEL is 52
+This took 6.19888305664e-05 s
+
+
+
+2019-08-27 20:26:11.135201
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Got 1786 words from file.
+Converted words into values.
+This took 0.0206718444824 s
+
+
+2019-08-27 20:27:35.691811
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Got 1786 words from file.
+Converted words into values.
+The highest value is 192
+This took 0.00582695007324 s
+
+
+2019-08-27 20:33:05.071052
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for triangular numbers under 193
+Found 21 triangular numbers in range
+This took 0.00272011756897 s
+
+
+2019-08-27 20:36:23.284144
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for triangular numbers under 193
+	Found: 0
+	Found: 3
+	Found: 4
+	Found: 10
+	Found: 12
+	Found: 21
+	Found: 24
+	Found: 36
+	Found: 40
+	Found: 55
+	Found: 60
+	Found: 78
+	Found: 84
+	Found: 105
+	Found: 112
+	Found: 136
+	Found: 144
+	Found: 171
+	Found: 180
+	Found: 210
+Found 21 triangular numbers in range
+Checking for triangular numbers in values
+Found 152 triangular numbers in list of word values.
+This took 0.00436592102051 s
+
+
+2019-08-27 20:39:33.835018
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for triangular numbers under 193
+	Found: 0
+	Found: 3
+	Found: 4
+	Found: 10
+	Found: 12
+	Found: 21
+	Found: 24
+	Found: 36
+	Found: 40
+	Found: 55
+	Found: 60
+	Found: 78
+	Found: 84
+	Found: 105
+	Found: 112
+	Found: 136
+	Found: 144
+	Found: 171
+	Found: 180
+	Found: 210
+Found 21 triangular numbers in range
+Checking for triangular numbers in values
+Found 152 triangular numbers in list of word values.
+[('ABILITY', 78), ('ACHIEVEMENT', 105), ('ACT', 24), ('ACTIVE', 60), ('ADVISE', 60), ('AGENCY', 55), ('AGREE', 36), ('AMOUNT', 84), ('ANY', 40), ('APPROACH', 78), ('ASSUME', 78), ('AT', 21), ('BAG', 10), ('BAND', 21), ('BAR', 21), ('BATTLE', 60), ('BELIEVE', 60), ('BELONG', 55), ('BENEATH', 55), ('BLUE', 40), ('BOARD', 40), ('BONE', 36), ('BRIEF', 40), ('BROAD', 40), ('BUILDING', 78), ('BURN', 55), ('CAPABLE', 40), ('CAPACITY', 78), ('CAT', 24), ('CHILD', 36), ('CIVIL', 55), ('COFFEE', 40), ('COLOUR', 84), ('COME', 36), ('CONFIDENCE', 78), ('CONFIRM', 78), ('CONNECTION', 112), ('CONSTRUCTION', 171), ('COULD', 55), ('CUP', 40), ('CURRENTLY', 136), ('DAUGHTER', 84), ('DECISION', 78), ('DEFINITION', 105), ('DESIRE', 60), ('DESPITE', 78), ('DETAILED', 60), ('DISTINCTION', 136), ('EAR', 24), ('EDGE', 21), ('EDUCATIONAL', 105), ('EXPRESSION', 144), ('FIELD', 36), ('FILM', 40), ('FOOD', 40), ('GRANT', 60), ('GREY', 55), ('HAIR', 36), ('HAPPEN', 60), ('HAVE', 36), ('HERE', 36), ('HIS', 36), ('HOLE', 40), ('HOTEL', 60), ('INCIDENT', 78), ('INCREASED', 78), ('INCREASINGLY', 136), ('INDIVIDUAL', 105), ('INSIDE', 60), ('JUMP', 60), ('KID', 24), ('LAW', 36), ('LAWYER', 84), ('LEAF', 24), ('LEG', 24), ('LESS', 55), ('LINE', 40), ('LIST', 60), ('LITTLE', 78), ('MERELY', 78), ('MIND', 40), ('MISS', 60), ('MISTAKE', 78), ('MOVE', 55), ('NORTHERN', 112), ('OBJECT', 55), ('OCCUR', 60), ('OF', 21), ('OFTEN', 60), ('OIL', 36), ('ORDER', 60), ('OURSELVES', 136), ('OVER', 60), ('PAIN', 40), ('PAINT', 60), ('PART', 55), ('PASS', 55), ('POLICE', 60), ('POTENTIAL', 112), ('PROCEDURE', 105), ('PROFIT', 84), ('PROPOSAL', 112), ('PROSPECT', 112), ('QUALITY', 105), ('REAL', 36), ('RELIEF', 55), ('RELY', 60), ('REMAIN', 60), ('REMOVE', 78), ('REPLACE', 60), ('REQUEST', 105), ('RIDE', 36), ('SCALE', 40), ('SCORE', 60), ('SECOND', 60), ('SEEK', 40), ('SKY', 55), ('SLIGHTLY', 112), ('SOFT', 60), ('SOIL', 55), ('SONG', 55), ('START', 78), ('STEP', 60), ('STRANGE', 84), ('SUCCEED', 60), ('SUFFICIENT', 112), ('SUGGESTION', 136), ('TABLE', 40), ('TEACHER', 60), ('THEIR', 60), ('THROW', 84), ('TOOTH', 78), ('TOTALLY', 105), ('TRAVEL', 78), ('TRIAL', 60), ('TROOP', 84), ('TWICE', 60), ('UNABLE', 55), ('US', 40), ('USEFUL', 84), ('VARIOUS', 105), ('VICTORY', 112), ('VIDEO', 55), ('VISITOR', 112), ('WAGE', 36), ('WARM', 55), ('WATCH', 55), ('WEAK', 40), ('WIDELY', 78), ('WITH', 60), ('WORD', 60), ('WORTH', 84)]
+This took 0.00377511978149 s
+
+
+2019-08-27 20:47:20.673348
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for triangular numbers under 193
+	Found: 1.0
+	Found: 3.0
+	Found: 6.0
+	Found: 10.0
+	Found: 15.0
+	Found: 21.0
+	Found: 28.0
+	Found: 36.0
+	Found: 45.0
+	Found: 55.0
+	Found: 66.0
+	Found: 78.0
+	Found: 91.0
+	Found: 105.0
+	Found: 120.0
+	Found: 136.0
+	Found: 153.0
+	Found: 171.0
+	Found: 190.0
+	Found: 210.0
+Found 21 triangular numbers in range
+Checking for triangular numbers in values
+Found 162 triangular numbers in list of word values.
+[('A', 1), ('ABILITY', 78), ('ABOVE', 45), ('ACCOMPANY', 91), ('ACHIEVEMENT', 105), ('AGENCY', 55), ('AGREE', 36), ('AIR', 28), ('ALREADY', 66), ('AN', 15), ('ANCIENT', 66), ('APPARENT', 91), ('APPOINT', 91), ('APPROACH', 78), ('ASSUME', 78), ('AT', 21), ('ATMOSPHERE', 120), ('BAG', 10), ('BAND', 21), ('BANK', 28), ('BAR', 21), ('BEAT', 28), ('BELONG', 55), ('BENEATH', 55), ('BONE', 36), ('BOTH', 45), ('BRIDGE', 45), ('BUILDING', 78), ('BURN', 55), ('CALL', 28), ('CAPACITY', 78), ('CAREFUL', 66), ('CASE', 28), ('CHILD', 36), ('CIVIL', 55), ('CLOSELY', 91), ('COME', 36), ('CONFIDENCE', 78), ('CONFIRM', 78), ('CONSERVATIVE', 153), ('CONSTRUCTION', 171), ('CONTENT', 91), ('COULD', 55), ('CURRENTLY', 136), ('DECISION', 78), ('DEFINITION', 105), ('DEMOCRATIC', 91), ('DEPUTY', 91), ('DESPITE', 78), ('DISTINCTION', 136), ('EAST', 45), ('EDGE', 21), ('EDUCATIONAL', 105), ('EFFECT', 45), ('EQUIPMENT', 120), ('EVENT', 66), ('FACE', 15), ('FAIL', 28), ('FAMILY', 66), ('FEEL', 28), ('FIELD', 36), ('FIGURE', 66), ('FLOOR', 66), ('FREEDOM', 66), ('FUND', 45), ('FUTURE', 91), ('GENTLEMAN', 91), ('GREY', 55), ('GROWTH', 91), ('HAIR', 36), ('HAPPY', 66), ('HAVE', 36), ('HERE', 36), ('HIS', 36), ('IF', 15), ('INCIDENT', 78), ('INCREASED', 78), ('INCREASINGLY', 136), ('INDIVIDUAL', 105), ('INSTRUMENT', 153), ('INTEND', 66), ('INTENTION', 120), ('IS', 28), ('LAW', 36), ('LEADER', 45), ('LEAVE', 45), ('LENGTH', 66), ('LESS', 55), ('LITTLE', 78), ('LOVELY', 91), ('MAN', 28), ('MATCH', 45), ('MERELY', 78), ('MILK', 45), ('MISTAKE', 78), ('MOVE', 55), ('MUCH', 45), ('NEED', 28), ('NOTICE', 66), ('OBJECT', 55), ('OBJECTIVE', 91), ('OF', 21), ('OIL', 36), ('ONLY', 66), ('OTHER', 66), ('OURSELVES', 136), ('PART', 55), ('PASS', 55), ('PATH', 45), ('PERFORM', 91), ('PRISON', 91), ('PRIVATE', 91), ('PROBABLY', 91), ('PROCEDURE', 105), ('QUALITY', 105), ('QUESTION', 120), ('RANGE', 45), ('READ', 28), ('REAL', 36), ('RELIEF', 55), ('REMOVE', 78), ('REPRESENT', 120), ('REQUEST', 105), ('RESPOND', 91), ('RIDE', 36), ('SAMPLE', 66), ('SAY', 45), ('SEAT', 45), ('SECURITY', 120), ('SINGLE', 66), ('SKY', 55), ('SOIL', 55), ('SOLICITOR', 120), ('SONG', 55), ('SOUTHERN', 120), ('SPIRIT', 91), ('START', 78), ('SUGGESTION', 136), ('TALL', 45), ('TAX', 45), ('THEORY', 91), ('THREATEN', 91), ('THROUGHOUT', 153), ('TITLE', 66), ('TOOTH', 78), ('TOTALLY', 105), ('TRAVEL', 78), ('TYPE', 66), ('UNABLE', 55), ('UNDERSTAND', 120), ('UPON', 66), ('USE', 45), ('VARIOUS', 105), ('VARY', 66), ('VIDEO', 55), ('WAGE', 36), ('WARM', 55), ('WATCH', 55), ('WE', 28), ('WHILST', 91), ('WIDELY', 78), ('WOMAN', 66)]
+This took 0.00399780273438 s
+
+
+2019-08-27 20:48:00.173023
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for triangular numbers under 193
+	Found: 1
+	Found: 3
+	Found: 6
+	Found: 10
+	Found: 15
+	Found: 21
+	Found: 28
+	Found: 36
+	Found: 45
+	Found: 55
+	Found: 66
+	Found: 78
+	Found: 91
+	Found: 105
+	Found: 120
+	Found: 136
+	Found: 153
+	Found: 171
+	Found: 190
+	Found: 210
+Found 21 triangular numbers in range
+Checking for triangular numbers in values
+Found 162 triangular numbers in list of word values.
+This took 0.00457382202148 s

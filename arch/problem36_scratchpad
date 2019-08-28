@@ -1,0 +1,83 @@
+
+
+2019-08-26 11:51:42.914469
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for base two and ten palindromes under 1000
+	Found: 0
+	Found: 1
+	Found: 3
+	Found: 5
+	Found: 7
+	Found: 9
+	Found: 33
+	Found: 99
+	Found: 313
+	Found: 585
+	Found: 717
+Found 11 numbers
+This took 0.0102508068085 s
+
+
+2019-08-26 11:53:06.676950
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for base two and ten palindromes under 1000
+	Found: 0 (binary: 0)
+	Found: 1 (binary: 1)
+	Found: 3 (binary: 11)
+	Found: 5 (binary: 101)
+	Found: 7 (binary: 111)
+	Found: 9 (binary: 1001)
+	Found: 33 (binary: 100001)
+	Found: 99 (binary: 1100011)
+	Found: 313 (binary: 100111001)
+	Found: 585 (binary: 1001001001)
+	Found: 717 (binary: 1011001101)
+Found 11 numbers
+This took 0.0108549594879 s
+
+
+2019-08-26 11:56:46.302504
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for base two and ten palindromes under 1000
+	Found: 0 (binary: 0)
+	Found: 1 (binary: 1)
+	Found: 3 (binary: 11)
+	Found: 5 (binary: 101)
+	Found: 7 (binary: 111)
+	Found: 9 (binary: 1001)
+	Found: 33 (binary: 100001)
+	Found: 99 (binary: 1100011)
+	Found: 313 (binary: 100111001)
+	Found: 585 (binary: 1001001001)
+	Found: 717 (binary: 1011001101)
+Found 11 numbers
+The sum of numbers under 1 000 000 which are palindromic in base 10 and 2 is 1772
+This took 0.0102851390839 s
+
+
+2019-08-26 11:57:02.686231
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for base two and ten palindromes under 1000000
+	Found: 0 (binary: 0)
+	Found: 1 (binary: 1)
+	Found: 3 (binary: 11)
+	Found: 5 (binary: 101)
+	Found: 7 (binary: 111)
+	Found: 9 (binary: 1001)
+	Found: 33 (binary: 100001)
+	Found: 99 (binary: 1100011)
+	Found: 313 (binary: 100111001)
+	Found: 585 (binary: 1001001001)
+	Found: 717 (binary: 1011001101)
+	Found: 7447 (binary: 1110100010111)
+	Found: 9009 (binary: 10001100110001)
+	Found: 15351 (binary: 11101111110111)
+	Found: 32223 (binary: 111110111011111)
+	Found: 39993 (binary: 1001110000111001)
+	Found: 53235 (binary: 1100111111110011)
+	Found: 53835 (binary: 1101001001001011)
+	Found: 73737 (binary: 10010000000001001)
+	Found: 585585 (binary: 10001110111101110001)
+Found 20 numbers
+The sum of numbers under 1 000 000 which are palindromic in base 10 and 2 is 872187
+This took 1.38406991959 s

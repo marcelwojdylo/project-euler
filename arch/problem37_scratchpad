@@ -1,0 +1,213 @@
+
+
+2019-08-26 12:04:08.739683
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Removing right character from Ignacy results in Ignac
+This took 0.000102996826172 s
+
+
+2019-08-26 12:05:28.198002
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Right-side truncating of Ignacy results in Ignac
+This took 4.6968460083e-05 s
+
+
+2019-08-26 12:05:40.926454
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Right-side truncating of Ignacy results in Ignac
+Left-side truncating of Ignacy results in gnacy
+This took 4.6968460083e-05 s
+
+
+2019-08-26 12:16:03.602877
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Possible left-side truncations of "Ignacy"  are:
+['gnacy', 'nacy', 'acy', 'cy', 'y', '']
+This took 4.88758087158e-05 s
+
+
+2019-08-26 12:17:26.369203
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Possible left-side truncations of "Ignacy"  are:
+['gnacy', 'nacy', 'acy', 'cy', 'y']
+This took 6.19888305664e-05 s
+
+
+2019-08-26 12:18:14.471596
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This took 4.31537628174e-05 s
+
+
+2019-08-26 12:18:23.609115
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Possible right-side truncations of "Ignacy"  are:
+This took 4.50611114502e-05 s
+
+
+2019-08-26 12:18:45.048671
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Possible right-side truncations of "Ignacy"  are:
+['Ignac', 'Igna', 'Ign', 'Ig', 'I']
+This took 5.00679016113e-05 s
+
+
+2019-08-26 12:21:07.645390
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Possible left- and right-side truncations of "Ignacy" are:
+	['gnacy', 'nacy', 'acy', 'cy', 'y', ['Ignac', 'Igna', 'Ign', 'Ig', 'I']]
+This took 5.60283660889e-05 s
+
+
+2019-08-26 12:22:35.297358
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Possible left- and right-side truncations of "Ignacy" are:
+	['gnacy', 'nacy', 'acy', 'cy', 'y', 'Ignac', 'Igna', 'Ign', 'Ig', 'I']
+This took 5.50746917725e-05 s
+
+
+2019-08-26 12:30:58.149843
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Checking if 3723 has the interesting property
+Possible left- and right-side truncations of "3723" are:
+	['723', '23', '3', '372', '37', '3']
+723 is not prime, 3723 does not have the interesting property
+Checking if 3797 has the interesting property
+Possible left- and right-side truncations of "3797" are:
+	['797', '97', '7', '379', '37', '3']
+All possible truncations of 3797 are prime
+This took 0.000107765197754 s
+
+
+2019-08-26 12:35:07.648331
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 10000
+All possible truncations of 2 are prime
+All possible truncations of 3 are prime
+All possible truncations of 5 are prime
+All possible truncations of 7 are prime
+All possible truncations of 23 are prime
+All possible truncations of 37 are prime
+All possible truncations of 53 are prime
+All possible truncations of 73 are prime
+All possible truncations of 313 are prime
+All possible truncations of 317 are prime
+All possible truncations of 373 are prime
+All possible truncations of 797 are prime
+All possible truncations of 3137 are prime
+All possible truncations of 3797 are prime
+Found 14 interesting numbers
+[2, 3, 5, 7, 23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797]
+This took 0.118432044983 s
+
+
+2019-08-26 12:35:37.711665
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 10000
+All possible truncations of 23 are prime
+All possible truncations of 37 are prime
+All possible truncations of 53 are prime
+All possible truncations of 73 are prime
+All possible truncations of 313 are prime
+All possible truncations of 317 are prime
+All possible truncations of 373 are prime
+All possible truncations of 797 are prime
+All possible truncations of 3137 are prime
+All possible truncations of 3797 are prime
+Found 10 interesting numbers
+[23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797]
+This took 0.0651059150696 s
+
+
+2019-08-26 12:36:03.024173
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 100000
+All possible truncations of 23 are prime
+All possible truncations of 37 are prime
+All possible truncations of 53 are prime
+All possible truncations of 73 are prime
+All possible truncations of 313 are prime
+All possible truncations of 317 are prime
+All possible truncations of 373 are prime
+All possible truncations of 797 are prime
+All possible truncations of 3137 are prime
+All possible truncations of 3797 are prime
+Found 10 interesting numbers
+[23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797]
+This took 0.73815703392 s
+
+
+2019-08-26 12:36:11.979165
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 1000000
+All possible truncations of 23 are prime
+All possible truncations of 37 are prime
+All possible truncations of 53 are prime
+All possible truncations of 73 are prime
+All possible truncations of 313 are prime
+All possible truncations of 317 are prime
+All possible truncations of 373 are prime
+All possible truncations of 797 are prime
+All possible truncations of 3137 are prime
+All possible truncations of 3797 are prime
+All possible truncations of 739397 are prime
+Found 11 interesting numbers
+[23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797, 739397]
+This took 7.40591812134 s
+
+
+2019-08-26 12:38:25.124078
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 739398
+All possible truncations of 23 are prime
+All possible truncations of 37 are prime
+All possible truncations of 53 are prime
+All possible truncations of 73 are prime
+All possible truncations of 313 are prime
+All possible truncations of 317 are prime
+All possible truncations of 373 are prime
+All possible truncations of 797 are prime
+All possible truncations of 3137 are prime
+All possible truncations of 3797 are prime
+All possible truncations of 739397 are prime
+Found 11 interesting numbers
+[23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797, 739397]
+
+
+2019-08-26 12:38:50.555339
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 739398
+All possible truncations of 23 are prime
+All possible truncations of 37 are prime
+All possible truncations of 53 are prime
+All possible truncations of 73 are prime
+All possible truncations of 313 are prime
+All possible truncations of 317 are prime
+All possible truncations of 373 are prime
+All possible truncations of 797 are prime
+All possible truncations of 3137 are prime
+All possible truncations of 3797 are prime
+All possible truncations of 739397 are prime
+Found 11 interesting numbers
+[23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797, 739397]
+The sum of all 11 numbers with the interesting property is: 748317
+This took 5.49096703529 s
+
+
+2019-08-26 12:40:12.942091
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Looking for interesting numbers in range 739398
+	All possible truncations of 23 are prime
+	All possible truncations of 37 are prime
+	All possible truncations of 53 are prime
+	All possible truncations of 73 are prime
+	All possible truncations of 313 are prime
+	All possible truncations of 317 are prime
+	All possible truncations of 373 are prime
+	All possible truncations of 797 are prime
+	All possible truncations of 3137 are prime
+	All possible truncations of 3797 are prime
+	All possible truncations of 739397 are prime
+Found 11 interesting numbers
+[23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797, 739397]
+The sum of all 11 numbers with the interesting property is: 748317
+This took 5.22501420975 s
