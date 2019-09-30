@@ -1,7 +1,7 @@
 # First 50 Project Euler problems
 This repository contains my solutions for the first 50 Project Euler problems.
 
-## What is Project Euler
+## What is Project Euler?
 [Project Euler](https://projecteuler.net/) is a website created by Colin Hughes which offers a series of increasingly difficult challenges from the area of computational mathematics. 
 
 ## Is 50 problems a lot?
